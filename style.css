@@ -1,0 +1,41 @@
+img{
+	width: 100%;
+	height: auto;
+	max-width: 100%;
+}
+
+
+html{
+	scroll-behavior: smooth;
+}
+
+#navbar{
+	height: 112px;
+}
+
+button{
+	height: 24px;
+	font-family: 'Montserrat';
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 24px;
+	color: black;
+	font-style: normal;
+	cursor: pointer;
+	border: none;
+	background-color: white;
+	margin-top: 44px;
+	margin-bottom: 44px;
+
+}
+
+#ncdesigns{
+margin-left:52px;
+}
+
+#work{
+margin-left: 1100px;
+}
+
+
+
