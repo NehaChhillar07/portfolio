@@ -9,10 +9,6 @@ html{
 	scroll-behavior: smooth;
 }
 
-#navbar{
-	height: 112px;
-}
-
 button{
 	height: 24px;
 	font-family: 'Montserrat';
@@ -39,6 +35,4 @@ padding:0px;
 #work{
 margin-left: 1000px;
 }
-
-
 
