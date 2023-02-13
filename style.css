@@ -24,6 +24,8 @@ html{
 }
 
 button{
+	margin-left:10px;
+	margin-right: 10px;
 	height:24px;
 	font-family: 'Montserrat';
 	font-style: normal;
@@ -31,7 +33,7 @@ button{
 	font-size: 20px;
 	line-height: 24px;
 	background-color:	rgba(245,245,245,1);
-	color: #162231;
+	color: rgba(22, 34, 49, 1);
 	border: none;
 	cursor: pointer;
 
