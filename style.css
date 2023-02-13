@@ -37,8 +37,12 @@ button{
 	color: rgba(22, 34, 49, 1);
 	border-width: 0px;
 	cursor: pointer;
+	transition: 0.5s;
 
+}
 
+button:hover{
+	color:#A0A5AB;
 }
 
 
