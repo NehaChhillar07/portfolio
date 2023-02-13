@@ -9,7 +9,7 @@ html{
 }
 .container{
 	display: block;
-	background-color: rgba(255,255,255,1);
+	background-color: rgba(245,245,245,1);
 	height: 124px;
 }
 .navbar{
@@ -30,7 +30,7 @@ button{
 	font-weight: 500;
 	font-size: 20px;
 	line-height: 24px;
-	background-color:	rgba(255,255,255,1);
+	background-color:	rgba(245,245,245,1);
 	color: #162231;
 	border: none;
 	cursor: pointer;
