@@ -7,21 +7,24 @@
   <title>Document</title>
   <link rel = "stylesheet" href="style.css">
 </head>
-<body>
-  <div id = "navbar">
-		<button id = "ncdesigns" onclick="location.href = 'index.html';";>
+<div class = "container"> 
+	<div class = "navbar">
+		<button onclick = "location.href='index.html';" style = "width: 118px;">
 			NC Designs
 		</button>
-			<button id = "work" onclick="location.href = 'allwork.html'">
+		<div style = "display: grid; grid-template-columns: 1fr 1fr 1fr; width: 246px; padding-left: 240px;">
+			<button onclick = "location.href='allwork.html';">
 				Work
-			</button>
-			<button onclick="location.href = 'knowme.html' ";>
-				About
-			</button>
-			<button onclick = "location.href = 'myresume.pdf'";>
-				Resume
-			</button>
+		</button>
+		<button onclick = "location.href='knowme.html';">
+			About
+		</button>
+		<button onclick = "location.href='myresume.pdf';">
+			Resume
+		</button>
+		</div>
 	</div>
+</div>
   <img src="knowMe.png" alt="">
   <img src = "footer.png">
 </body>
